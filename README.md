@@ -1,6 +1,7 @@
 # raincloud
 Simplified C++ 2D game library for Windows.  
-**Please add `$(SolutionDir)YOUR_PROJECT_NAME\raincloud\include\freetype\include` to `Additional Include Directories` tab in Visual Studio before compile it.**
+**Please add `$(SolutionDir)YOUR_PROJECT_NAME\raincloud\include\freetype\include` to `Additional Include Directories` tab in Visual Studio before compile it.**  
+**+Check x86 as a target platform in Visual Studio**
 
 ## Features
 - Image rendering
